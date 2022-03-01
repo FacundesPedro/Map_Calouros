@@ -15,9 +15,11 @@
         git checkout -b "myBranch" 
 ```
 ### <li>Rode o módulo 'openSource.mjs' usando o NodeJS</li>
-    <p>Basicamente a classe "MapCalouros" tem algumas funções de um database (ler e escrever), nesse projeto nosso "data-center" é um simples arquivo .json</p><br>
-    <p>A função de vocês é rodar o construtor dessa classe dando seu nome e outras propriedades que podemos usar para construir algo intuitivo no futuro</p><br>
-    <p>Depois de alterar o objeto "calouro" rode o seguinte comando no terminal para escrever os dados no nosso mega database</p>
+    Basicamente a classe "MapCalouros" tem algumas funções de um database (ler e escrever), nesse projeto nosso "data-center" é um simples arquivo .json
+
+    A função de vocês é rodar o construtor dessa classe dando seu nome e outras propriedades que podemos usar para construir algo intuitivo no futuro!
+
+    Depois de alterar o objeto "calouro" rode o seguinte comando no terminal para escrever os dados no nosso mega database.
 ```
         node openSource.mjs 
 ```
@@ -32,4 +34,4 @@
     
 </ol>
 <p>Aqui vai um video para ajudar no desafio!</p>
-[![Watch the video](https://img.youtube.com/vi/Du04jBWrv4A)](https://www.youtube.com/watch?v=Du04jBWrv4A)
+[Watch the video](https://www.youtube.com/watch?v=Du04jBWrv4A)
