@@ -2,7 +2,7 @@
 <ol>
     <li>Fork esse projeto com o seu "git-cliente",nesse caso,Github</li>
         <img src="imgs/github_fork.png"><br>
-    <strong>(Vai estar na sua pagina de repositórios)<strong>
+    <strong>(Vai estar na sua pagina de repositórios logo após)<strong>
     
     
 ### <li><a href="https://www.google.com/search?q=git" target="_blank">Instale o git no seu Pc Local</a> and clone o projeto</li>
