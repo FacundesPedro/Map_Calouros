@@ -1,11 +1,10 @@
 ## Bem vindos ao talvez primeiro Open Source de vocês
 <ol>
     <li>Fork esse projeto com o seu "git-cliente",nesse caso,Github</li>
-    <strong>(Vai estar na sua pagina de repositórios)<strong><br>
-    <br>
-    <div style="display:inline-block;">
-        <img src="imgs/github_fork.png" >
-    <div>
+        <img src="imgs/github_fork.png"><br>
+    <strong>(Vai estar na sua pagina de repositórios)<strong>
+    
+    
 ### <li><a href="https://www.google.com/search?q=git" target="_blank">Instale o git no seu Pc Local</a> and clone o projeto</li>
 ```
         git clone link_do_repositorio_local 
