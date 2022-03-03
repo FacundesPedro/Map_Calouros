@@ -1,8 +1,6 @@
 ## Bem vindos ao talvez primeiro Open Source de vocês
 <ol>
     <li>Fork esse projeto com o seu "git-cliente",nesse caso,Github</li>
-        <img src="imgs/github_fork.png"><br>
-    <strong>(Vai estar na sua pagina de repositórios logo após)<strong>
     
     
 ### <li><a href="https://www.google.com/search?q=git" target="_blank">Instale o git no seu Pc Local</a> and clone o projeto</li>
@@ -24,7 +22,7 @@
 ```
         node openSource.mjs 
 ```
-### <li>Push changes to your branch on cloud!</li>
+### <li>Deum push dos seus commits na sua branch  na nuvem!</li>
 ####   <p>Run this on your terminal: </p>
 ```
         git add .
