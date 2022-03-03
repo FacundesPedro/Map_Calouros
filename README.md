@@ -22,7 +22,7 @@
 ```
         node openSource.mjs 
 ```
-### <li>Deum push dos seus commits na sua branch  na nuvem!</li>
+### <li>Dê um push dos seus commits na sua branch  na nuvem!</li>
 ####   <p>Run this on your terminal: </p>
 ```
         git add .
