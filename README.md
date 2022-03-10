@@ -3,7 +3,7 @@
     <li>Fork esse projeto com o seu "git-cliente",nesse caso,Github</li>
     
     
-### <li><a href="https://www.google.com/search?q=git" target="_blank">Instale o git no seu Pc Local</a> and clone o projeto</li>
+### <li><a href="https://www.google.com/search?q=git" target="_blank">Instale o git no seu Pc Local</a> e clone o projeto</li>
 ```
         git clone https://github.com/FacundesPedro/Map_Calouros.git 
         // Lembre de ir pro diretório que será criado!
