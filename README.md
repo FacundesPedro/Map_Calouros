@@ -5,7 +5,7 @@
     
 ### <li><a href="https://www.google.com/search?q=git" target="_blank">Instale o git no seu Pc Local</a> and clone o projeto</li>
 ```
-        git clone link_do_repositorio_local 
+        git clone https://github.com/FacundesPedro/Map_Calouros.git 
         // Lembre de ir pro diretório que será criado!
 ```
 ### <li>Crie uma branch para que você possa contribuir sem alterar a branch principal </li>
